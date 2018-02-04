@@ -9,8 +9,8 @@ Magento1_deprecated/app/locale/zh_TW/Werules_Chatbot.csv            app/locale/z
 Magento1_deprecated/app/locale/pt_BR/Werules_Chatbot.csv            app/locale/pt_BR/Werules_Chatbot.csv
 Magento1_deprecated/app/locale/zh_HK/Werules_Chatbot.csv            app/locale/zh_HK/Werules_Chatbot.csv
 # app/design
-Magento1_deprecated/app/design/frontend/base/default/template/werules_chatbot_config.phtml            Magento1_deprecated/app/design/frontend/base/default/template/werules_chatbot_config.phtml
-Magento1_deprecated/app/design/frontend/base/default/template/werules_chatbot_view.phtml            Magento1_deprecated/app/design/frontend/base/default/template/werules_chatbot_view.phtml
+Magento1_deprecated/app/design/frontend/base/default/template/werules_chatbot_config.phtml            app/design/frontend/base/default/template/werules_chatbot_config.phtml
+Magento1_deprecated/app/design/frontend/base/default/template/werules_chatbot_view.phtml            app/design/frontend/base/default/template/werules_chatbot_view.phtml
 Magento1_deprecated/app/design/frontend/base/default/template/werules_chatbot_messenger_box.phtml            Magento1_deprecated/app/design/frontend/base/default/template/werules_chatbot_messenger_box.phtml
 Magento1_deprecated/app/design/frontend/base/default/layout/werules_chatbot.xml            app/design/frontend/base/default/layout/werules_chatbot.xml
 Magento1_deprecated/app/design/adminhtml/default/default/layout/werules_chatbot.xml            app/design/adminhtml/default/default/layout/werules_chatbot.xml
